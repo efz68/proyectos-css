@@ -1,5 +1,19 @@
-h1{color: rgb(24, 4, 4);}
-p{color: rgb(14, 17, 17);}
+h1{color: rgb(24, 4, 4);
+font-size: 50px;}
+p{color: rgb(14, 17, 17);
+font-size: 20px;}
 h3 {color: rgb(176, 32, 7);
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
-.introduccion { color: blue;}
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;}
+.introduccion { color: rgb(72, 72, 75);
+font-size: 30px;}
+ul {font-size: 18px;}
+h4 {color: indigo;
+font-style: italic;
+font-size: 20px;}
+body {background-color: rgb(248, 239, 239);}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
